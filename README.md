@@ -33,8 +33,9 @@ Ayaka seeds a local SQLite database with ~3,000 kanji and ~20,000 vocabulary ent
 ## Setup
 
 ```bash
-pip install mcp
-python mcp/seed/seed.py   # download data + populate ayaka.db (one-time)
+cd mcp
+uv sync                        # install dependencies
+uv run seed/seed.py            # download data + populate ayaka.db (one-time)
 ```
 
 Register with Claude Desktop by adding to your `claude_desktop_config.json` (`%APPDATA%\Claude\` on Windows, `~/Library/Application Support/Claude/` on macOS):
@@ -43,21 +44,25 @@ Register with Claude Desktop by adding to your `claude_desktop_config.json` (`%A
 {
   "mcpServers": {
     "ayaka": {
-      "command": "python",
-      "args": ["C:\\path\\to\\Ayaka\\mcp\\server.py"]
+      "command": "uv",
+      "args": ["--directory", "C:\\path\\to\\Ayaka\\mcp", "run", "server.py"]
     }
   }
 }
 ```
 
+This config can also be accessed via **Settings > Developer > Local MCP Servers** in Claude Desktop.
+
 ## Data sources
 
-| Data | Source |
-|------|--------|
-| Kanji + readings + JLPT | [davidluzgouveia/kanji-data](https://github.com/davidluzgouveia/kanji-data) |
-| Vocabulary + readings + POS | [scriptin/jmdict-simplified](https://github.com/scriptin/jmdict-simplified) |
-| Vocab → JLPT level mapping | [Bluskyo/JLPT_Vocabulary](https://github.com/Bluskyo/JLPT_Vocabulary) |
-| Grammar patterns + examples | [JLPT Grammar List](https://jlptgrammarlist.neocities.org/) |
+The seed script (`uv run seed/seed.py`) downloads three JSON files from GitHub and parses them into SQLite. It's idempotent — if the data already exists, it skips.
+
+| Data | Source | What the seed does |
+|------|--------|--------------------|
+| Kanji + readings + JLPT | [davidluzgouveia/kanji-data](https://github.com/davidluzgouveia/kanji-data) | Downloads `kanji.json` (~1.5MB), extracts character, meanings, on/kun readings, JLPT level (N5–N1), grade, frequency, and stroke count into `kanji_ref` |
+| Vocabulary + readings + POS | [scriptin/jmdict-simplified](https://github.com/scriptin/jmdict-simplified) | Resolves the latest GitHub release, downloads the `jmdict-eng-common` `.tgz` (~1.3MB), extracts the JSON, and parses primary word/reading, English glosses, and part of speech into `vocab_ref` |
+| Vocab → JLPT level mapping | [Bluskyo/JLPT_Vocabulary](https://github.com/Bluskyo/JLPT_Vocabulary) | Downloads `JLPTWords.json` (~200KB) and joins JLPT levels onto vocab entries by matching word + reading |
+| Grammar patterns + examples | [JLPT Grammar List](https://jlptgrammarlist.neocities.org/) | Reads the committed `grammar.json` (708 patterns across N5–N1) into `grammar_ref` with pattern, meaning, and example sentences |
 
 ## Project structure
 

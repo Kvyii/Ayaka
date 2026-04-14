@@ -2,6 +2,8 @@
 notes/
 __pycache__/
 *.pyc
+.venv/
+.assets/
 
 # Generated/downloaded data
 mcp/ayaka.db
