@@ -1,7 +1,10 @@
 """Ayaka MCP Server — Japanese language learning tracker."""
 
+import functools
 import json
+import logging
 import sys
+import time
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -13,7 +16,57 @@ from mcp.server.fastmcp import FastMCP
 from db import get_connection, init_db
 from tools import register_all_tools
 
+# Log to stderr so Claude Desktop shows it in the MCP terminal
+logging.basicConfig(
+    level=logging.INFO,
+    format="[%(asctime)s] %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+    stream=sys.stderr,
+)
+logger = logging.getLogger("ayaka")
+
 mcp = FastMCP("ayaka")
+
+# Wrap every tool to log calls, args, results, and errors
+_original_tool = mcp.tool
+
+
+# ANSI colors
+CYAN = "\033[36m"
+GREEN = "\033[32m"
+RED = "\033[31m"
+DIM = "\033[2m"
+RESET = "\033[0m"
+
+
+def logged_tool(*args, **kwargs):
+    decorator = _original_tool(*args, **kwargs)
+
+    def wrapper(fn):
+        @functools.wraps(fn)
+        def logged_fn(*fn_args, **fn_kwargs):
+            arg_parts = [repr(a) for a in fn_args]
+            arg_parts += [f"{k}={v!r}" for k, v in fn_kwargs.items()]
+            call_str = f"{fn.__name__}({', '.join(arg_parts)})"
+            logger.info(f"{CYAN}CALL{RESET}  {call_str}")
+            t0 = time.perf_counter()
+            try:
+                result = fn(*fn_args, **fn_kwargs)
+                ms = (time.perf_counter() - t0) * 1000
+                preview = result if len(result) <= 200 else result[:200] + "..."
+                logger.info(f"{GREEN}OK{RESET}    {fn.__name__} {DIM}({ms:.0f}ms){RESET} → {preview}")
+                return result
+            except Exception as e:
+                ms = (time.perf_counter() - t0) * 1000
+                logger.error(f"{RED}FAIL{RESET}  {fn.__name__} {DIM}({ms:.0f}ms){RESET} → {type(e).__name__}: {e}")
+                raise
+
+        return decorator(logged_fn)
+
+    return wrapper
+
+
+mcp.tool = logged_tool
 
 register_all_tools(mcp)
 
@@ -129,6 +182,7 @@ def get_due_for_review(days: int = 7, category: str = "all") -> str:
 
 # Ensure schema exists on startup
 init_db()
+logger.info("Ayaka MCP server ready")
 
 if __name__ == "__main__":
     mcp.run()
