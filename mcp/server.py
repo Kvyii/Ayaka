@@ -180,6 +180,60 @@ def get_due_for_review(days: int = 7, category: str = "all") -> str:
     return json.dumps(result, ensure_ascii=False)
 
 
+@mcp.tool()
+def get_introduced_between(
+    start_date: str,
+    end_date: str,
+    category: str = "all",
+    limit: int = 20,
+) -> str:
+    """Items introduced within a date range. Useful for reviewing what was
+    learned recently or during a specific period.
+
+    Args:
+        start_date: Start of range (inclusive), ISO format e.g. "2025-04-01".
+        end_date: End of range (inclusive), ISO format e.g. "2025-04-15".
+        category: "kanji", "vocab", "grammar", or "all" (default "all").
+        limit: Max items per category (default 20). Use 0 for no limit.
+    """
+    conn = get_connection()
+    result = {}
+    lim = f" LIMIT {limit}" if limit > 0 else ""
+
+    if category in ("kanji", "all"):
+        rows = conn.execute(
+            "SELECT kr.character, kr.meanings, kp.confidence, kp.date_introduced "
+            "FROM kanji_progress kp JOIN kanji_ref kr ON kp.kanji_id = kr.id "
+            "WHERE kp.date_introduced BETWEEN ? AND ? "
+            f"ORDER BY kp.date_introduced{lim}",
+            (start_date, end_date),
+        ).fetchall()
+        result["kanji"] = [dict(r) for r in rows]
+
+    if category in ("vocab", "all"):
+        rows = conn.execute(
+            "SELECT vr.word, vr.reading, vr.meaning, vp.confidence, vp.date_introduced "
+            "FROM vocab_progress vp JOIN vocab_ref vr ON vp.vocab_id = vr.id "
+            "WHERE vp.date_introduced BETWEEN ? AND ? "
+            f"ORDER BY vp.date_introduced{lim}",
+            (start_date, end_date),
+        ).fetchall()
+        result["vocab"] = [dict(r) for r in rows]
+
+    if category in ("grammar", "all"):
+        rows = conn.execute(
+            "SELECT gr.pattern, gr.meaning, gp.status, gp.date_introduced "
+            "FROM grammar_progress gp JOIN grammar_ref gr ON gp.grammar_id = gr.id "
+            "WHERE gp.date_introduced BETWEEN ? AND ? "
+            f"ORDER BY gp.date_introduced{lim}",
+            (start_date, end_date),
+        ).fetchall()
+        result["grammar"] = [dict(r) for r in rows]
+
+    conn.close()
+    return json.dumps(result, ensure_ascii=False)
+
+
 # Ensure schema exists on startup
 init_db()
 logger.info("Ayaka MCP server ready")
