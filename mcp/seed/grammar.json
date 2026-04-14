@@ -1,0 +1,4958 @@
+[
+  {
+    "pattern": "いちばん",
+    "meaning": "the most",
+    "example_ja": "ここがいちばん面白い場面です。",
+    "example_en": "This is the most interesting scene.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "が 1",
+    "meaning": "as for (identifies something)",
+    "example_ja": "弟がいる。",
+    "example_en": "There is a younger brother.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "が 2",
+    "meaning": "but; however",
+    "example_ja": "難しいが、楽しい。",
+    "example_en": "It is difficult but fun.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "か 1",
+    "meaning": "or (A or B; choice between 2 objects)",
+    "example_ja": "ここかそこ。",
+    "example_en": "Here or there?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "か 2",
+    "meaning": "question particle",
+    "example_ja": "雨ですか。",
+    "example_en": "Is it rain?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "がある",
+    "meaning": "there is (used for non-living things)",
+    "example_ja": "川がある。",
+    "example_en": "There is a river.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "がいる",
+    "meaning": "there is (used for living things)",
+    "example_ja": "可愛い女の子がいる。",
+    "example_en": "There is a cute girl.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "から 1",
+    "meaning": "because; since",
+    "example_ja": "車で来ましたから。",
+    "example_en": "Because I drove here by car.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "から 2",
+    "meaning": "from",
+    "example_ja": "西からの風。",
+    "example_en": "a wind from the west.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "くらい / ぐらい",
+    "meaning": "about; approximately",
+    "example_ja": "東京まで、３０分くらいです。",
+    "example_en": "It's about 30 minutes to Tokyo.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "けど / けれども",
+    "meaning": "but; although",
+    "example_ja": "早く寝たけれども、まだ眠たいです。",
+    "example_en": "I went to sleep early but I am still tired.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "する",
+    "meaning": "to do",
+    "example_ja": "質問する。",
+    "example_en": "To ask a question",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "だ / です",
+    "meaning": "there is; this is",
+    "example_ja": "猫だ。猫です。",
+    "example_en": "There is a cat.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "たい",
+    "meaning": "want to",
+    "example_ja": "何食べたい？",
+    "example_en": "What do you want to eat?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "だけ",
+    "meaning": "only; just",
+    "example_ja": "これは水だけだ。",
+    "example_en": "This is just water.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "たことがある",
+    "meaning": "have done before",
+    "example_ja": "高い肉を食べたことがある。",
+    "example_en": "I have eaten expensive meat before.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "だろう 1",
+    "meaning": "probably",
+    "example_ja": "ペンがあるだろう。",
+    "example_en": "There is probably a pen.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "だろう 2",
+    "meaning": "isn't it?; right?",
+    "example_ja": "ここがいいだろう。",
+    "example_en": "Here is good, isn't it?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "つもり",
+    "meaning": "plan to; intend to",
+    "example_ja": "日本に行くつもりだ。",
+    "example_en": "I intend to go to Japan.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "で 1",
+    "meaning": "at; in",
+    "example_ja": "バーで飲む。",
+    "example_en": "I'll drink at/in a bar.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "で 2",
+    "meaning": "with; by",
+    "example_ja": "バスで帰る。",
+    "example_en": "I'll go home by bus.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "ている",
+    "meaning": "is / are / am doing",
+    "example_ja": "何をしている？",
+    "example_en": "What are you doing?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "てから",
+    "meaning": "after doing",
+    "example_ja": "映画を見てから、帰ります。",
+    "example_en": "After watching the movie, I will go home.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "てください",
+    "meaning": "please do…",
+    "example_ja": "食べてください。",
+    "example_en": "Please eat.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "でしょう 1",
+    "meaning": "probably",
+    "example_ja": "雨でしょうね。",
+    "example_en": "It will probably be rain, won't it?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "でしょう 2",
+    "meaning": "isn't it?; right?",
+    "example_ja": "いいでしょう。",
+    "example_en": "It's good isn't it?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "てはいけない",
+    "meaning": "must not; may not",
+    "example_ja": "ここに来てはいけない。",
+    "example_en": "You must not come here.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "てもいい",
+    "meaning": "is okay; is alright to",
+    "example_ja": "狭くてもいい。",
+    "example_en": "It's fine even if it is narrow.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "と 1",
+    "meaning": "and",
+    "example_ja": "黒と白の猫。",
+    "example_en": "Black and white cat.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "と 2",
+    "meaning": "with",
+    "example_ja": "友達と見る。",
+    "example_en": "Watch with a friend.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "な",
+    "meaning": "don't do",
+    "example_ja": "泣くな。",
+    "example_en": "Don't cry.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "ないでください",
+    "meaning": "please don't",
+    "example_ja": "泣かないでください。",
+    "example_en": "Please don't cry.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "なる",
+    "meaning": "to become",
+    "example_ja": "病気になる。",
+    "example_en": "To become sick with flu.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "に / へ",
+    "meaning": "to",
+    "example_ja": "駅に行く。駅へ行く。",
+    "example_en": "To go to the station.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "に",
+    "meaning": "in; at; to; for",
+    "example_ja": "街に住む。",
+    "example_en": "Live in the city.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "にいく",
+    "meaning": "to go, in order to do...",
+    "example_ja": "エレベーターで５かいにいく。",
+    "example_en": "To use the elevator to go to the fifth floor.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "にする",
+    "meaning": "to decide on",
+    "example_ja": "この音楽にする。",
+    "example_en": "To decide on this music.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "の 1",
+    "meaning": "of (indicates possession)",
+    "example_ja": "私の犬です。",
+    "example_en": "It's my dog.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "の 2",
+    "meaning": "(turns verbs into nouns)",
+    "example_ja": "彼は走るのが速い。",
+    "example_en": "He runs fast.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "のが下手",
+    "meaning": "to be bad at",
+    "example_ja": "彼は漢字を書くのが下手。",
+    "example_en": "He is bad at writing kanji.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "のが上手",
+    "meaning": "to be good at",
+    "example_ja": "彼女は歌うのが上手。",
+    "example_en": "She is good at singing.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "のが好き",
+    "meaning": "like / love doing",
+    "example_ja": "犬と遊ぶのが好き。",
+    "example_en": "I like playing with dogs.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "ので",
+    "meaning": "because of; the reason is that",
+    "example_ja": "太いので、走るのは遅い。",
+    "example_en": "Because I am fat, my running is slow.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "は",
+    "meaning": "as for (introduces something)",
+    "example_ja": "これは何？",
+    "example_en": "What is this?",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "ほうがいい 1",
+    "meaning": "it'd be better to",
+    "example_ja": "靴を脱いだほうがいいです。",
+    "example_en": "It's better that you take off your shoes.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "ほうがいい 2",
+    "meaning": "it'd be better to not",
+    "example_ja": "そのことを言わないほうがいいかもしれない。",
+    "example_en": "It might be better not to say such things.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "前に",
+    "meaning": "before",
+    "example_ja": "犬が門の前にいる。",
+    "example_en": "There is a dog in front of the gate.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "まだ",
+    "meaning": "still; not yet",
+    "example_ja": "娘はまだ起きていません。",
+    "example_en": "My daughter hasn't got up yet.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "まで",
+    "meaning": "until; till; to; even",
+    "example_ja": "駅まで、歩く。",
+    "example_en": "To walk until the station.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "も",
+    "meaning": "also; too; as well",
+    "example_ja": "服も古い。",
+    "example_en": "The clothes are also old.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "もう",
+    "meaning": "already; anymore",
+    "example_ja": "もう帰った。",
+    "example_en": "They already went home.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "や",
+    "meaning": "and (etc.)",
+    "example_ja": "鳥や馬が山にいました。",
+    "example_en": "Birds, horses, etc were in the mountains.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "より○○のほうが○○",
+    "meaning": "is more ~ than",
+    "example_ja": "飛行機より電車のほうが遅いです。",
+    "example_en": "An aeroplane is slower than a train.",
+    "jlpt_level": 5
+  },
+  {
+    "pattern": "後で",
+    "meaning": "after; later",
+    "example_ja": "後で電話します。",
+    "example_en": "I will call you later.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "あまり○○ない",
+    "meaning": "not very; not much",
+    "example_ja": "あまり肉を食べない。",
+    "example_en": "I don't eat very much meat.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "いたす",
+    "meaning": "to do (humble する)",
+    "example_ja": "今確認いたします。",
+    "example_en": "I will confirm it now. (humble)",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "いらっしゃる",
+    "meaning": "to be; to come; to go",
+    "example_ja": "ここにはよくいらっしゃるんですか？",
+    "example_en": "Do you come here often?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "お○○ください",
+    "meaning": "please do (honorific)",
+    "example_ja": "お水をください。",
+    "example_en": "Can I have some water, please?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "お○○になる",
+    "meaning": "to do (honorific)",
+    "example_ja": "お世話になりました。",
+    "example_en": "Thank you for your kindness.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "おきに",
+    "meaning": "repeated at intervals; every",
+    "example_ja": "一時間おきに電車があります。",
+    "example_en": "There's a train every hour.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "終わる",
+    "meaning": "to finish; to end",
+    "example_ja": "終わるまで、頑張った。",
+    "example_en": "I gave my best until it finished.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "かい",
+    "meaning": "(turns a sentence into a yes/no question)",
+    "example_ja": "今朝は飯を食べたかい？",
+    "example_en": "Did you have a meal this morning?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "かしら",
+    "meaning": "I wonder",
+    "example_ja": "裕子さんは大丈夫かしら。",
+    "example_en": "I wonder if Yuko is okay.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "がする",
+    "meaning": "smell; hear; taste",
+    "example_ja": "いい匂いがする。",
+    "example_en": "It smells good.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "方",
+    "meaning": "way of; method",
+    "example_ja": "私の考え方。",
+    "example_en": "My way of thinking",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "かどうか",
+    "meaning": "whether or not",
+    "example_ja": "行くかどうか　分からない。",
+    "example_en": "I don’t know whether I will go or not.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "かな",
+    "meaning": "I wonder",
+    "example_ja": "外は寒いかな。",
+    "example_en": "I wonder if it’s cold outside.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "かもしれない",
+    "meaning": "might; maybe",
+    "example_ja": "アレルギーかもしれないですね。",
+    "example_en": "It could be allergies.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "がる",
+    "meaning": "to show signs of; to feel; to think",
+    "example_ja": "怖がらないでください。",
+    "example_en": "Please don’t be afraid.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "急に",
+    "meaning": "suddenly",
+    "example_ja": "猫が急に噛み付いた。",
+    "example_en": "The cat bit me suddenly.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ございます",
+    "meaning": "there is (honorific　ある)",
+    "example_ja": "ほかにご質問はございますか。",
+    "example_en": "Do you have any other questions?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "こと",
+    "meaning": "(turns verbs into nouns)",
+    "example_ja": "これ見たことある？",
+    "example_en": "Have you seen this?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ことができる",
+    "meaning": "can; be able to",
+    "example_ja": "馬に乗ることができる。",
+    "example_en": "I can ride a horse.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ことにする",
+    "meaning": "to decide on",
+    "example_ja": "家を買うことにした。",
+    "example_en": "I decided to buy a house.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ことになる",
+    "meaning": "will become",
+    "example_ja": "他人に知れるとまずいことになるわね。",
+    "example_en": "It'll be a bad thing if other's find out.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ごろ",
+    "meaning": "around; about",
+    "example_ja": "３時ごろに作り終わる。",
+    "example_en": "I will finish making it around three o'clock.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "さ",
+    "meaning": "(turns adjectives) into nouns",
+    "example_ja": "このテーブルは丁度良い高さだ。",
+    "example_en": "This table is the right height for me.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "させられる",
+    "meaning": "to be made to do something",
+    "example_ja": "息子は退学させられた。",
+    "example_en": "My son was expelled.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "させる",
+    "meaning": "to make/let somebody do something",
+    "example_ja": "この美しい話はあなたを感動させるだろう。",
+    "example_en": "This lovley story will move you.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "し",
+    "meaning": "and",
+    "example_ja": "怖かったし、悲しかった。",
+    "example_en": "I was scared, and I was sad.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "しか○○ない",
+    "meaning": "only; nothing but",
+    "example_ja": "四つしか椅子がない。",
+    "example_en": "There are only four chairs.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "じゃないか",
+    "meaning": "isn't it",
+    "example_ja": "いいじゃないか。",
+    "example_en": "It's fine isn’t it?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "すぎる",
+    "meaning": "too much",
+    "example_ja": "小さすぎる。",
+    "example_en": "Too small.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ぜんぜん",
+    "meaning": "(not) at all",
+    "example_ja": "お金がぜんぜんない。",
+    "example_en": "I don’t have any money at all.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "そうだ 1",
+    "meaning": "I heard that; it is said that",
+    "example_ja": "明日は気温が下がるそうだ。",
+    "example_en": "I heard that the temperature will go down tomorrow.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "そうだ 2",
+    "meaning": "look like; appear; seem",
+    "example_ja": "眠そうだね。",
+    "example_en": "You look sleepy.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "そうに / そうな",
+    "meaning": "seem; look like",
+    "example_ja": "あの時計は高そうに見える。",
+    "example_en": "That watch looks expensive.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "それでも",
+    "meaning": "but still; and yet",
+    "example_ja": "明日雨降るの？それでも海に行く。",
+    "example_en": "It may rain tomorow and yet I'll still go to the sea.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "そんなに",
+    "meaning": "so; so much; like that",
+    "example_ja": "そんなに心配しないで。",
+    "example_en": "Don't worry too much.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "たがる",
+    "meaning": "to want to",
+    "example_ja": "彼は動物園に行きたがる。",
+    "example_en": "He wants to go to the zoo.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "だけで",
+    "meaning": "just by",
+    "example_ja": "この寒さだけで死ぬよ。",
+    "example_en": "Just by this coldness you will die.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "出す",
+    "meaning": "to suddenly begin; to suddenly appear",
+    "example_ja": "トムは急に泣き出した。",
+    "example_en": "Tom suddenly started to cry.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "たところ",
+    "meaning": "just finished doing; was just doing",
+    "example_ja": "なんか、そんな気がしていたところです。",
+    "example_en": "I was just starting to get that feeling.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "たばかり",
+    "meaning": "just did; something just happened",
+    "example_ja": "今朝、着いたばかりです。",
+    "example_en": "I arrived here only this morning.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "たら",
+    "meaning": "if; after; when",
+    "example_ja": "眠くなったら言ってね。",
+    "example_en": "If you get sleepy, tell me.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "たらどう",
+    "meaning": "why don't you",
+    "example_ja": "もっと勉強したらどうですか？",
+    "example_en": "Why dont you study more?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "たり○○たり",
+    "meaning": "do such things like",
+    "example_ja": "掃除をしたり、洗濯したりした。",
+    "example_en": "I did things like cleaning and doing the laundry.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "続ける",
+    "meaning": "to continue",
+    "example_ja": "仕事を続けてください。",
+    "example_en": "Please keep working.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てあげる",
+    "meaning": "to do something for someone",
+    "example_ja": "今回だけは許してあげる。",
+    "example_en": "I'll forgive you just this once.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てある",
+    "meaning": "something is/has been done",
+    "example_ja": "顔に嘘って書いてあるよ。",
+    "example_en": "You have \"lies\" written all over your face.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ていく",
+    "meaning": "to go and do",
+    "example_ja": "大丈夫！お弁当を持って行くから。",
+    "example_en": "It's okay! Because I will take bento with me.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ていただけませんか",
+    "meaning": "could you please",
+    "example_ja": "窓を閉めていただけませんか？",
+    "example_en": "Could you close the window please?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ているところ",
+    "meaning": "in the process of doing",
+    "example_ja": "ボーナスの使い道を考えているところです。",
+    "example_en": "I'm thinking about what I should use the bonus for.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ておく / とく",
+    "meaning": "to do something for later",
+    "example_ja": "冷蔵庫でジュースを冷やしておく。",
+    "example_en": "I keep juice cool in the fridge (for later).",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てくる",
+    "meaning": "to come to; to become; to continue",
+    "example_ja": "泣けてくるなあ。",
+    "example_en": "That brings me to tears.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てくれる",
+    "meaning": "to do something for someone",
+    "example_ja": "それ取ってくれる？",
+    "example_en": "Can you give me that?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "でございます",
+    "meaning": "there is; this is (honorific である)",
+    "example_ja": "京都ホテルでございます。",
+    "example_en": "This is the Kyoto Hotel.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てしまう / ちゃう",
+    "meaning": "to do something (regretfully); to do something (completely)",
+    "example_ja": "お酒を飲み過ぎると、眠くなってしまう。",
+    "example_en": "Drinking too much alcohol makes me sleepy (unfortunatley).",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てすみません",
+    "meaning": "I'm sorry for",
+    "example_ja": "遅れてすみません。",
+    "example_en": "I'm sorry I'm late.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てほしい",
+    "meaning": "I want you to; I need you to",
+    "example_ja": "一緒に勉強してほしいです。",
+    "example_en": "I want you to study together with me.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てみる",
+    "meaning": "to try to",
+    "example_ja": "今週末に野球をしてみる。",
+    "example_en": "I am going to try playing baseball this weekend.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ても",
+    "meaning": "even if; even though",
+    "example_ja": "たとえ両親が反対しても私は行く。",
+    "example_en": "I will go even if my parents are against it.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "でも",
+    "meaning": "or something",
+    "example_ja": "お茶でもどう？",
+    "example_en": "How about tea or something?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てもらう",
+    "meaning": "to get somebody to do something",
+    "example_ja": "この仕事を手伝ってもらう。",
+    "example_en": "I will get someone to help with this work.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "てよかった",
+    "meaning": "I'm glad that",
+    "example_ja": "今日運動してよかった。",
+    "example_en": "I'm glad that I exercised today.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "と",
+    "meaning": "if; when; and",
+    "example_ja": "母と娘。",
+    "example_en": "Mother and daughter.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ということ",
+    "meaning": "(changes a sentence or phrase into a noun)",
+    "example_ja": "私にパーティに来てほしくないということはわかります。",
+    "example_en": "I know you don't want me to come to the party.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "と思う",
+    "meaning": "I think; you think",
+    "example_ja": "食べようと思う。",
+    "example_en": "I think I’ll eat.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "とか○○とか",
+    "meaning": "among other things; such as",
+    "example_ja": "青とか水色が好き。",
+    "example_en": "I like colors such as blue and light blue.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "とき",
+    "meaning": "when; at the time",
+    "example_ja": "散歩するときは音楽を聴く。",
+    "example_en": "I listen to music when I take a walk.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ところ",
+    "meaning": "about to; on the verge of",
+    "example_ja": "今から帰るところです。",
+    "example_en": "I am just about to go home.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ないで",
+    "meaning": "without doing; don't",
+    "example_ja": "泣かないで。",
+    "example_en": "Don't cry.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ながら",
+    "meaning": "while; during; as",
+    "example_ja": "掃除しながら、テレビを見ます。",
+    "example_en": "I watch TV while doing cleaning.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "なくてはいけない / なくてはならない",
+    "meaning": "must do; have to do",
+    "example_ja": "毎日学校に行かなくてはいけない。",
+    "example_en": "I have to go to school every day.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "なくてもいい",
+    "meaning": "don't have to",
+    "example_ja": "急がなくてもいいよ。",
+    "example_en": "You don't have to hurry.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "なければいけない / なければならない",
+    "meaning": "must do; have to do",
+    "example_ja": "もっと勉強しなければいけないと思った。",
+    "example_en": "I thought that I must study more.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "なさい",
+    "meaning": "(order somebody to do something)",
+    "example_ja": "勉強しなさい。",
+    "example_en": "Study!",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "なさる",
+    "meaning": "to do (honorific する)",
+    "example_ja": "お飲み物はどうなさいますか。",
+    "example_en": "Would you like something to drink?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "など",
+    "meaning": "such as; things like",
+    "example_ja": "腰や背中などが痛い。",
+    "example_en": "Things like my hips and back hurt (among others).",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "なら",
+    "meaning": "if; in case; as for",
+    "example_ja": "君なら、できる。",
+    "example_en": "If it's you, you can do it",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "にくい",
+    "meaning": "difficult to",
+    "example_ja": "箸は使いにくいです。",
+    "example_en": "Chopsticks are difficult to use.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "の中で",
+    "meaning": "in; among",
+    "example_ja": "果物の中で何が一番好きですか。",
+    "example_en": "What fruit do you like best?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "のに 1",
+    "meaning": "although in spite of; even though",
+    "example_ja": "無理って言ったのにまだやるの？",
+    "example_en": "Even though I said it was impossible, you're still going to do it?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "のに 2",
+    "meaning": "in order to",
+    "example_ja": "手紙が届くのに三日かかりました。",
+    "example_en": "It took three days in order for the letter to arrive.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "のように / のような",
+    "meaning": "like; similar to",
+    "example_ja": "お箸はこのように使います。",
+    "example_en": "Chopsticks are used like this.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ば",
+    "meaning": "if… then",
+    "example_ja": "天気が良ければフジ山が見える。",
+    "example_en": "If the weather is good, you can see Mt. Fuji.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "場合は",
+    "meaning": "in the event of",
+    "example_ja": "なお、雨の場合は中止です。",
+    "example_en": "Moreover, it will be canceled in the event of rain.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ばかり 1",
+    "meaning": "only; nothing but",
+    "example_ja": "彼女はいつも文句ばかり言う。",
+    "example_en": "She does nothing but complain.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "始める",
+    "meaning": "to start; to begin to",
+    "example_ja": "先生はクラスを始める。",
+    "example_en": "The teacher starts class.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "はずがない",
+    "meaning": "cannot be",
+    "example_ja": "彼なんかに出来るはずがない。",
+    "example_en": "Someone like him could never do it.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "はずだ",
+    "meaning": "it must be; it should be",
+    "example_ja": "もっと良い方法があるはずだ。",
+    "example_en": "There must be a better way.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "必要",
+    "meaning": "need; necessary",
+    "example_ja": "これは、必要ですか。",
+    "example_en": "Is this necessary?",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "必要がある",
+    "meaning": "need to",
+    "example_ja": "私たちは話す必要がある。",
+    "example_en": "We need to talk.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ほしい",
+    "meaning": "to want something; to be in need of",
+    "example_ja": "君がほしい！",
+    "example_en": "I want you!",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "までに",
+    "meaning": "by; by the time",
+    "example_ja": "明日までに電話をください。",
+    "example_en": "Please call by tomorrow.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "みたい",
+    "meaning": "like; similar to; resembling",
+    "example_ja": "あの雲は鳥みたいだ。",
+    "example_en": "That cloud looks like a bird.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "みたいに/みたいな",
+    "meaning": "like; similar to",
+    "example_ja": "レモンみたいな黄色。",
+    "example_en": "Lemon-like yellow.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "やすい",
+    "meaning": "easy to; likely to",
+    "example_ja": "ケーキは作りやすい。",
+    "example_en": "Cake is easy to make.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ようだ",
+    "meaning": "it seems that; it appears that; it looks like",
+    "example_ja": "誰か来たようだ。",
+    "example_en": "It seems that someone has come.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ようと思う",
+    "meaning": "I think I will",
+    "example_ja": "今日は早めに寝ようと思う。",
+    "example_en": "I think I'll go to bed early tonight.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ように/ような",
+    "meaning": "as; like; just like",
+    "example_ja": "お箸はこのように使います。",
+    "example_en": "Chopsticks are used like this.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ようにする",
+    "meaning": "to try to; to make sure that",
+    "example_ja": "無駄にお金を使わないようにしている。",
+    "example_en": "I'm trying not to waste money.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "ようになる",
+    "meaning": "to reach the point that",
+    "example_ja": "泥を落としたら、なんと新品のようになった。",
+    "example_en": "When I cleaned off the mud, they became like brand new!",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "よていだ",
+    "meaning": "plan to; intend to",
+    "example_ja": "私は九月に行く予定です。",
+    "example_en": "I'm planning to go there in September.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "より",
+    "meaning": "than",
+    "example_ja": "日本より熱い。",
+    "example_en": "It’s hotter than Japan.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "らしい",
+    "meaning": "-like",
+    "example_ja": "彼女は女らしい。",
+    "example_en": "She's girl=like (feminine).",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "られる 1",
+    "meaning": "to be able to do something",
+    "example_ja": "その魚は生で食べられる。",
+    "example_en": "The fish can be eaten raw.",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "られる 2",
+    "meaning": "to do (by someone)",
+    "example_ja": "若い人達に教えられた。",
+    "example_en": "Taught by young people. (若い人達に教えた = Taught young people)",
+    "jlpt_level": 4
+  },
+  {
+    "pattern": "あまり",
+    "meaning": "so much… that",
+    "example_ja": "あまり肉を食べない。",
+    "example_en": "I don't eat very much meat.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "あまりに",
+    "meaning": "so much… that; too…",
+    "example_ja": "あまりにうるさかったので耳を塞いだわ。",
+    "example_en": "It was too noisy, so I covered my ears.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "いくら○○ても / いくら○○でも",
+    "meaning": "no matter how",
+    "example_ja": "いくら呼んでも彼は返事をしなかったわ。",
+    "example_en": "No matter how many times I called, he didn't respond.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "一方だ",
+    "meaning": "more and more; continue to",
+    "example_ja": "雨はひどくなる一方だ。",
+    "example_en": "The rain is getting heavier and heavier.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "一方で",
+    "meaning": "on one hand; on the other hand",
+    "example_ja": "父は自分に厳しい一方で、他人には優しい。",
+    "example_en": "My father is very strict with himself but very kind to others.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "うちに",
+    "meaning": "while; before; doing",
+    "example_ja": "母はまだ暗いうちに起きる。",
+    "example_en": "My mother gets up while it’s still dark.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "おかげで",
+    "meaning": "thanks to; because of",
+    "example_ja": "先生のおかげで大学に合格できました。",
+    "example_en": "Thanks to the teacher, I passed (the exam) for university .",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "おそらく",
+    "meaning": "perhaps; likely; probably",
+    "example_ja": "おそらく私のコンピューターには何百万枚もの写真が入っています。",
+    "example_en": "I probably have millions of pictures on my computer right now.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "かけ",
+    "meaning": "half-; not yet finished",
+    "example_ja": "テーブルの上に食べかけのケーキが置いてある。",
+    "example_en": "The half-eaten cake is put on the table.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "がたい",
+    "meaning": "hard to; difficult to",
+    "example_ja": "お～天ぷらも捨てがたいなあ。",
+    "example_en": "Oh, tempura soba is hard hard to throw away too.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "がち",
+    "meaning": "apt to do; tend to do",
+    "example_ja": "急ぐととかく失敗しがちだ。",
+    "example_en": "If you hurry you tend to make mistakes.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "代わりに",
+    "meaning": "instead of; in exchange for",
+    "example_ja": "手紙の代わりにメールをする。",
+    "example_en": "I send an e-mail instead of sending a letter.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ぎみ",
+    "meaning": "-like; -looking",
+    "example_ja": "風邪気味だったので薬を飲ませた。",
+    "example_en": "I had a slight cold so I took some medicine.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "きり",
+    "meaning": "only; just",
+    "example_ja": "私達は二人きりになった。",
+    "example_en": "The two of us were left alone.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "きる",
+    "meaning": "to do something completely",
+    "example_ja": "何せ朝から晩迄働いて疲れきっているんだ。",
+    "example_en": "Anyhow, I’m tired out from working from morning till night.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "切れない",
+    "meaning": "being too much to finish",
+    "example_ja": "銀河には数え切れないほど星がある。",
+    "example_en": "There are too many stars to count in the Milky Way.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "くせに",
+    "meaning": "even though; and yet; despite",
+    "example_ja": "この部屋は狭いくせに家賃がすごく高い。",
+    "example_en": "Despite the room being small, the rent is very expensive.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "くらい / ぐらい",
+    "meaning": "probably; around",
+    "example_ja": "家から駅まで十分くらいです。",
+    "example_en": "It's around ten minutes from my house to the station.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "決して○○ない",
+    "meaning": "never; by no means",
+    "example_ja": "トムは決して笑わない。",
+    "example_en": "Tom never laughs.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "こそ",
+    "meaning": "certainly (emphasises the previous word)",
+    "example_ja": "今年こそダイエットをする。",
+    "example_en": "I’ll centainly go on a diet this year.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "こと",
+    "meaning": "(must) do",
+    "example_ja": "大きい声で喋らないこと。",
+    "example_en": "Don't talk in a loud voice.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ことか",
+    "meaning": "how…? what…!",
+    "example_ja": "何度注意したことか。",
+    "example_en": "How many times have I warned you…?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ことがある",
+    "meaning": "can; sometimes happens",
+    "example_ja": "小さい問題が大きい問題になることがある。",
+    "example_en": "Small problems can become big problems.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ことだ",
+    "meaning": "should (when giving advice)",
+    "example_ja": "同じ過ちを繰り返さないことだ。",
+    "example_en": "You should not repeat the same mistake.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ことに",
+    "meaning": "-ly",
+    "example_ja": "兄は交通事故に遭ったが、幸いなことに、軽いけがで済んだ。",
+    "example_en": "My brother had a car accident but fortunate(ly) he was only slightly injured.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ことはない",
+    "meaning": "there is no need to; never happens",
+    "example_ja": "あなたが心配することはないよ。",
+    "example_en": "You don’t have to worry about it.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "さえ",
+    "meaning": "even",
+    "example_ja": "それは子供でさえ分かる。",
+    "example_en": "Even children can understand it.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "さえ○○ば / さえすれば / さえいれば",
+    "meaning": "if only… then",
+    "example_ja": "薬を飲みさえすれば治ります。",
+    "example_en": "If you drink your medicine you'll get better.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "しかない",
+    "meaning": "have no choice but",
+    "example_ja": "今やるしかない。",
+    "example_en": "have no choice but to do it now",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ずに",
+    "meaning": "without (doing)",
+    "example_ja": "彼は何も言わずに去ってしまった。",
+    "example_en": "He left without saying anything.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ずにはいられない",
+    "meaning": "can't help but feel; can't help but do",
+    "example_ja": "タツヤを気の毒に思わずにはいられなかったのだ。",
+    "example_en": "I couldn’t help feeling sorry for Tatsuya.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "せいで",
+    "meaning": "because of",
+    "example_ja": "事故のせいで遅刻した。",
+    "example_en": "I was late because of a traffic accident.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "そうもない",
+    "meaning": "very unlikely to",
+    "example_ja": "我々にはとけそうもない謎さ。",
+    "example_en": "A mystery we’re not likely to solve.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "その結果",
+    "meaning": "as a result",
+    "example_ja": "その結果、無罪となっていた。",
+    "example_en": "As a result, he had been acquitted.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "だけ 2",
+    "meaning": "as much as",
+    "example_ja": "できるだけ、日本語を話さないようにしよう。",
+    "example_en": "As much as possible, I've got to avoid speaking Japanese.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "た結果 / の結果",
+    "meaning": "as a result of",
+    "example_ja": "よく話し合った結果、やはり離婚ということになりました。",
+    "example_en": "As a result of a long discission, as expected we decided to get a divorce.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "だけど",
+    "meaning": "but; however",
+    "example_ja": "飲み物だけど、辛い。",
+    "example_en": "It is a drink, but it is spicy.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "確かに",
+    "meaning": "surely; certainly",
+    "example_ja": "確かに、そうですね。",
+    "example_en": "That's certainly so, isn't it?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "たとえ○○ても",
+    "meaning": "even if… is the case",
+    "example_ja": "たとえ、嵐になっても絶対に行く。",
+    "example_en": "Even if the storm comes, I'll go for sure.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "たとえば",
+    "meaning": "for example",
+    "example_ja": "たとえば、茎を曲げたり、方向を変えたりできます。",
+    "example_en": "For example, they can bend their stems, change their directions, and so forth.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "たとたん",
+    "meaning": "as soon as; just (now)",
+    "example_ja": "立ち上がったとたんに、目まいがした。",
+    "example_en": "As soon as I stood up, I felt dizzy.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "たびに",
+    "meaning": "everytime; whenever",
+    "example_ja": "の本を読むたびに、彼のことを思い出す。",
+    "example_en": "I think about him everytime I read this book.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ために 1",
+    "meaning": "for the sake of; in order to",
+    "example_ja": "誰かのために料理する。",
+    "example_en": "Cook for someone.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ために 2",
+    "meaning": "because of; as a result of",
+    "example_ja": "霧のために列車がおくれてしまった。",
+    "example_en": "As a result of the fog, the train was delayed.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "たらいい / といい 1",
+    "meaning": "should",
+    "example_ja": "これ何分チンしたらいい？",
+    "example_en": "How long should I microwave this?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "たらいい / といい 2",
+    "meaning": "I hope",
+    "example_ja": "楽しいといいです。",
+    "example_en": "I hope it is fun.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "たらいい / といい 3",
+    "meaning": "it would be nice if",
+    "example_ja": "今日の晩ご飯カレーだといいな。",
+    "example_en": "It'd be nice if we had curry for dinner tonight.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "だらけ 1",
+    "meaning": "covered (all over)",
+    "example_ja": "靴が泥だらけになったよ。",
+    "example_en": "My shoes were covered (all over) in mud.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "だらけ 2",
+    "meaning": "full of",
+    "example_ja": "彼の話は矛盾だらけだ。",
+    "example_en": "What he says is full of contradictions.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ついでに",
+    "meaning": "taking the opportunity; while (you) are at it",
+    "example_ja": "郵便局へ行ったついでに、葉書を買ってきた。",
+    "example_en": "Since I was at the post office, I bought a postcard.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "っけ",
+    "meaning": "what is… again?",
+    "example_ja": "ごめん、名前何だっけ？",
+    "example_en": "Sorry, what is your name again?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "っぱなし",
+    "meaning": "leaving something still in use",
+    "example_ja": "窓を開けっぱなしで出かけた。",
+    "example_en": "I left the windows open and went out.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "っぽい",
+    "meaning": "-ish; -like",
+    "example_ja": "そのシャツは安っぽいね。",
+    "example_en": "That shirt looks cheap doesn't it.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "つまり",
+    "meaning": "in other words; that is to say",
+    "example_ja": "つまり、あなたは何も知らないのですね。",
+    "example_en": "In other words, you don't know anything right?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "てごらん",
+    "meaning": "(please) try to; (please) look",
+    "example_ja": "絵を逆さにして見てごらん。",
+    "example_en": "Try looking at the picture upside down.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "て初めて",
+    "meaning": "not until; only after… did I",
+    "example_ja": "生まれて初めて布団を敷いた。",
+    "example_en": "I laid out the futon for the first time in my life.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "てもかまわない / てもかまいません",
+    "meaning": "no problem",
+    "example_ja": "ドアを閉めてもかまいませんか？",
+    "example_en": "Closing the door is no problem? (Would you mind closing the door?)",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "という",
+    "meaning": "called; named",
+    "example_ja": "これは何という花ですか？",
+    "example_en": "What's this flower called?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ということ",
+    "meaning": "I've heard that; it seems that",
+    "example_ja": "クリスさんから電話があって、少し遅れるということです。",
+    "example_en": "Chris called and it seems like he will be a little bit late.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "というと",
+    "meaning": "speaking of; when you say…",
+    "example_ja": "今日では、ブラウスというと女性用のシャツの事を指す。",
+    "example_en": "Nowadays, a blouse usually refers to a women's shirt.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "というのは 1",
+    "meaning": "means; is",
+    "example_ja": "謎というのは説明できない事柄のことです。",
+    "example_en": "Mystery means something that can not be explained.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "というのは 2",
+    "meaning": "because",
+    "example_ja": "わたしは肉は食べません。というのは、菜食主義だからです。",
+    "example_en": "The first time in particular, is always the most difficult.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "というのは 3",
+    "meaning": "in particular",
+    "example_ja": "一番最初というのは、常に一番大変です。",
+    "example_en": "The first time in particular, is always the most difficult.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "というより",
+    "meaning": "rather than",
+    "example_ja": "今日は涼しいというより寒いくらいだった。",
+    "example_en": "It was cold rather than cool today.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "といっても",
+    "meaning": "although one says",
+    "example_ja": "祝日といっても、特に特別なことは無い。",
+    "example_en": "Altough you say national holiday, there's nothing particularly special (about it).",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "とおり",
+    "meaning": "in the way; the same as",
+    "example_ja": "真理子さんが言ったとおりだった。",
+    "example_en": "It was exactly as Mariko said.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ところが",
+    "meaning": "however; although",
+    "example_ja": "ところが計画は上手くいかなかった。",
+    "example_en": "However, the plan didn’t turn out to be a success.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "どころか",
+    "meaning": "far from; nevermind",
+    "example_ja": "彼はワインどころかビールも飲まない。",
+    "example_en": "Nevermind wine, he doesn’t even drink beer.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ところで",
+    "meaning": "by the way",
+    "example_ja": "ところで、奥さんは元気？",
+    "example_en": "By the way, how's your wife?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "としたら / とすれば",
+    "meaning": "if it were the case that; if we assume",
+    "example_ja": "明日死ぬとしたら、何がしたいですか。",
+    "example_en": "If you were going to die tomorrow, what would you want to do?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "として",
+    "meaning": "as (i.e. in the role of)",
+    "example_ja": "私は留学生として日本に入国しました。",
+    "example_en": "I entered Japan as an international student.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "としない / とはしない",
+    "meaning": "not try to; not make an effort to",
+    "example_ja": "この部屋の中で遊ぶことはしないでください。",
+    "example_en": "Try not to play in this room please.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "とする 1",
+    "meaning": "try to",
+    "example_ja": "彼は私の質問から逃れようとしていました。",
+    "example_en": "He tried to avoid answering my question.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "とする 2",
+    "meaning": "be about to",
+    "example_ja": "何言おうとしたか忘れちゃった。",
+    "example_en": "I forgot what I was about to say.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "途中に / 途中で",
+    "meaning": "on the way; in the middle of",
+    "example_ja": "駅に行く道の途中にあります。",
+    "example_en": "It's on the way to the station.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "と共に",
+    "meaning": "together with",
+    "example_ja": "彼は妻子と共に旅行に出た。",
+    "example_en": "He went traveling with his wife and children.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "とは限らない",
+    "meaning": "not necessarily so; is not always true",
+    "example_ja": "テレビが真実を報道しているとは限らない。",
+    "example_en": "It's not always the case that the television broadcasts the truth.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "どんなに○○ても",
+    "meaning": "no matter how",
+    "example_ja": "どんなに食べても彼女は太らない。",
+    "example_en": "No matter how much she eats, she never gains weight.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ないことはない",
+    "meaning": "can; is not impossible",
+    "example_ja": "スキーはできないことはないけど、もう何年もやってないから…",
+    "example_en": "It’s not that I can’t ski, it’s just I haven’t done it in a long time.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "中",
+    "meaning": "during; throughout",
+    "example_ja": "今電話中です。",
+    "example_en": "I'm on the phone right now.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ながら / いながら / ながらも",
+    "meaning": "although; despite",
+    "example_ja": "彼は毎回遅刻しないと言いながら、遅れています。",
+    "example_en": "Although he always says he won't be late, he always is.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "なぜなら / なぜかというと",
+    "meaning": "because; the reason is",
+    "example_ja": "学校を変えた。なぜなら、僕のレベルのクラスがなかったからだ。",
+    "example_en": "changed schools because there was no class available at my level.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "なるべく",
+    "meaning": "as much as possible",
+    "example_ja": "なるべく早く来てください。",
+    "example_en": "Please come as early as possible.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "なんか / なんて",
+    "meaning": "things like; something",
+    "example_ja": "なんか変なもの踏んじゃった。",
+    "example_en": "I stepped on something strange.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "において / における",
+    "meaning": "in; on; at; as for; regarding",
+    "example_ja": "日本において国際会議が開かれた。",
+    "example_en": "An international conference was held in Japan.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "にかけて",
+    "meaning": "over (a period); through; concerning",
+    "example_ja": "明日は昼から夕方にかけて雨でしょう。",
+    "example_en": "Tomorrow it will rain from noon through late afternoon.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "にかわって / にかわり",
+    "meaning": "instead of; on behalf of",
+    "example_ja": "野球にかわり、サッカーがさかんになってきた。",
+    "example_en": "Soccer has overtaken baseball in popularity.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "に関する / に関して",
+    "meaning": "related to; about",
+    "example_ja": "生物に関する本を読む。",
+    "example_en": "I read a book about living things.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "に比べて",
+    "meaning": "compared to",
+    "example_ja": "前年に比べて利益が上がりました。",
+    "example_en": "Our profit went up compared to the year before.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "にしては",
+    "meaning": "for; considering it's",
+    "example_ja": "この子は4才にしては語彙が豊富だ。",
+    "example_en": "This child has a rich vocabulary for a four-year old.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "にしても",
+    "meaning": "even if",
+    "example_ja": "冗談にしてもそれは酷過ぎる。",
+    "example_en": "Even if it’s a joke, it’s too much.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "に対して",
+    "meaning": "regarding; with regards to",
+    "example_ja": "彼は誰に対しても優しい。",
+    "example_en": "With regards to everyone, he is very kind.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "に違いない",
+    "meaning": "I'm sure; no doubt that",
+    "example_ja": "彼女は日本人に違いない。",
+    "example_en": "She must be Japanese.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "について",
+    "meaning": "concerning; about",
+    "example_ja": "私はその事故について証言した。",
+    "example_en": "I gave testimony about the accident.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "につれて",
+    "meaning": "as… then",
+    "example_ja": "黒い雲が近づくにつれて、青い空は灰色になった。",
+    "example_en": "The blue sky turned gray as the dark clouds approached.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "にとって",
+    "meaning": "to; for; concerning",
+    "example_ja": "私にとって貴重な体験でした。",
+    "example_en": "It was a valuable experience for me.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "によって / による",
+    "meaning": "due to; by means of",
+    "example_ja": "この地震による津波の心配はありません。",
+    "example_en": "There's no worry of a tsunami due to this earthquake.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "によると / によれば",
+    "meaning": "according to",
+    "example_ja": "天気予報によると明日は晴れです。",
+    "example_en": "According to the weather forecast, it will be fine tomorrow.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "間 / 間に 1",
+    "meaning": "while; during",
+    "example_ja": "旅行の間、犬の世話をしてください。",
+    "example_en": "During my trip, please take care of my dog.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "間 / 間に 2",
+    "meaning": "between",
+    "example_ja": "彼は木の間にロープを張った。",
+    "example_en": "He stretched a rope between the trees.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ば○○ほど",
+    "meaning": "the more… the more/less",
+    "example_ja": "この計画は考えば考えるほど気に入りません。",
+    "example_en": "The more I thought about the plan, the less I liked it.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ばいい",
+    "meaning": "should; can; it'd be good if",
+    "example_ja": "明日のデート、何着て行けばいいと思う？",
+    "example_en": "What clothes do you think I should put on to go to my date tomorrow?",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ばかりでなく",
+    "meaning": "not only… but also; as well as",
+    "example_ja": "おかずばかりでなくご飯も食べなさい。",
+    "example_en": "Eat the rice, not just the side dishes.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ばよかった",
+    "meaning": "should have; it would have been better if",
+    "example_ja": "電話してくれればよかったのに。",
+    "example_en": "You should've phoned me.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ふと 1",
+    "meaning": "suddenly",
+    "example_ja": "ふと昔の事を思い出したんだ。",
+    "example_en": "I suddenly remembered the past.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ふと 2",
+    "meaning": "accidentally; unexpectedly",
+    "example_ja": "ふと右を見たら、大きな木があった。",
+    "example_en": "By chance, I looked to my right, and there was a large tree.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ふりをする",
+    "meaning": "to pretend; to act as if",
+    "example_ja": "彼女は聞こえないふりをした。",
+    "example_en": "She pretended not to hear.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "べき",
+    "meaning": "must do; should do",
+    "example_ja": "トムはもっと食べるべきだと思う。",
+    "example_en": "I think Tom should eat more.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "べきではない",
+    "meaning": "must not do; should not do",
+    "example_ja": "子供の前でそんな話はするべきではない。",
+    "example_en": "We should not talk about things like that in front of children.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "べつに○○ない / べつに○○じゃない",
+    "meaning": "not really; not particularly",
+    "example_ja": "コーヒーはべつに好きじゃない。",
+    "example_en": "I don’t particularly like coffee.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ほど",
+    "meaning": "the more; to the extent that; so much… that",
+    "example_ja": "今夜は凍えるほど寒い。",
+    "example_en": "It is cold enough to freeze tonight.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ほど○○ない",
+    "meaning": "is not as… as",
+    "example_ja": "死ほど恐ろしいものはない。",
+    "example_en": "There is nothing scarier than death.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "最中に",
+    "meaning": "in the middle of",
+    "example_ja": "パーティーの最中に地震があった。",
+    "example_en": "In the very middle of the party, there was an earthquake.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "まま",
+    "meaning": "as it is",
+    "example_ja": "このまま時間を止めたい。",
+    "example_en": "I want to stop time (in this moment).",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "まるで",
+    "meaning": "as if; as though",
+    "example_ja": "彼のマジックはまるで奇跡です。",
+    "example_en": "His magic is like a miracle.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "向き 1",
+    "meaning": "towards (direction)",
+    "example_ja": "彼は車を後ろ向きに駐車したの。",
+    "example_en": "He parked the car backward.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "向き 2",
+    "meaning": "suitable for",
+    "example_ja": "これは小学生向きの童話集です。",
+    "example_en": "This is a collection of fairy tales suitable for elementary school students.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "向け",
+    "meaning": "intended for; aimed at",
+    "example_ja": "それは少女向けの雑誌です。",
+    "example_en": "It's a magazine for young girls.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "めったに",
+    "meaning": "hardly; rarely; seldom",
+    "example_ja": "彼女はめったに怒りません。",
+    "example_en": "She rarely gets angry.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "もしかしたら",
+    "meaning": "perhaps; maybe",
+    "example_ja": "もしかしたら来年転勤になるかもしれない。",
+    "example_en": "It's possible that I might get transferred next year.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "もの",
+    "meaning": "because (indicate reason or excuse)",
+    "example_ja": "「どうしてパーティーに行かないの。」 「だって、忙しいもの。」",
+    "example_en": "Why don’t you come to the party?. \"Because I’m busy.\"",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ものだ",
+    "meaning": "used to do something; should do something",
+    "example_ja": "先人の教えには従うものだ。",
+    "example_en": "We should follow our predecessors’ teaching.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ような気がする",
+    "meaning": "have a feeling that; think that",
+    "example_ja": "いや、それを避けてきていたような気がする。",
+    "example_en": "No, I feel as though I had been avoiding it.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "ように",
+    "meaning": "in order to; so that",
+    "example_ja": "迷わないように地図を持って行って。",
+    "example_en": "Take a map with you so that you don’t get lost.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "わけがない",
+    "meaning": "there is no way that",
+    "example_ja": "あなたのお金をもらえるわけがない！",
+    "example_en": "I’m not accepting your money!",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "わけだ",
+    "meaning": "for that reason; no wonder; as you'd expect",
+    "example_ja": "雪が降ってきた。道理で寒いわけだ。",
+    "example_en": "It's started snowing! No wonder it's so cold.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "わけではない",
+    "meaning": "it doesn't mean that; it is not the case",
+    "example_ja": "私は彼を故意に傷つけたわけではない。",
+    "example_en": "I did not hurt him intentionally.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "わけにはいかない",
+    "meaning": "must not; can't afford to",
+    "example_ja": "彼の悪事を見過ごすわけにはいきません。",
+    "example_en": "His wrong-doing must not be overlooked.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "わりに",
+    "meaning": "for; despite; unexpectedly",
+    "example_ja": "私の息子は、歳のわりに大きい。",
+    "example_en": "My son is big for his age.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "を中心に",
+    "meaning": "focused on; centered on",
+    "example_ja": "地球は軸を中心に回転します。",
+    "example_en": "The earth rotates on its axis.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "をはじめ / をはじめとする",
+    "meaning": "for example; starting with",
+    "example_ja": "会議には中国をはじめ、アジアの国々が参加した。",
+    "example_en": "China and other Asian countries participated in the conference.",
+    "jlpt_level": 3
+  },
+  {
+    "pattern": "あるいは",
+    "meaning": "or; possibly",
+    "example_ja": "紅茶がいいですか、あるいはコーヒーがいいですか。",
+    "example_en": "Would you like tea or coffee?",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "いきなり",
+    "meaning": "suddenly; all of a sudden",
+    "example_ja": "後ろからいきなり肩をたたかれた。",
+    "example_en": "Someone tapped on my shoulder from behind all of a sudden.",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "以上 1",
+    "meaning": "over",
+    "example_ja": "あなたは18歳以上ですか？",
+    "example_en": "Are you over 18?",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "以上 2",
+    "meaning": "because; now that",
+    "example_ja": "彼女を愛している以上、そんなことは問題ではなかった。",
+    "example_en": "That didn’t matter, because I loved her.",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "以上に",
+    "meaning": "more than; no less than",
+    "example_ja": "気温が30度以上になる。",
+    "example_en": "The temperature gets above 30 degrees.",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "いよいよ",
+    "meaning": "at last; finally",
+    "example_ja": "いよいよ夏休みが始まります。",
+    "example_en": "Finally, summer vacation is starting.",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "いわゆる",
+    "meaning": "so-called; so to speak",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "上で",
+    "meaning": "after",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "上に",
+    "meaning": "as well; besides; in addition to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "上は",
+    "meaning": "now that; since",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "えない",
+    "meaning": "unable to; cannot",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "える / うる",
+    "meaning": "can; is possible",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "お○○願う",
+    "meaning": "could you please",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "恐れがある",
+    "meaning": "there are fears that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "おまけに",
+    "meaning": "to make matters worse",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "か○○ないかのうちに",
+    "meaning": "right after; as soon as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "かいがある",
+    "meaning": "it's worth one's effort to do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "かえって",
+    "meaning": "on the contrary; rather; surprisingly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "限り",
+    "meaning": "as long as; while… is the case",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "かと思ったら / かと思うと",
+    "meaning": "then again; just when; no sooner than",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "か何か",
+    "meaning": "or something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "かねない",
+    "meaning": "might happen; might do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "かねる",
+    "meaning": "unable to do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "かのよう",
+    "meaning": "as if; just like",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "から言うと",
+    "meaning": "in terms of; from the point of view of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "からこそ",
+    "meaning": "precisely because",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "からして",
+    "meaning": "judging from; based on",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "からすると / からすれば",
+    "meaning": "judging from; considering",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "からといって",
+    "meaning": "just because",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "からには",
+    "meaning": "now that; since; so long as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ら見ると",
+    "meaning": "from the point of view of; by the look of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "気",
+    "meaning": "feel like",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "逆に",
+    "meaning": "on the contrary",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "げ",
+    "meaning": "(giving the appearance of)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ことから",
+    "meaning": "from the fact that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ことだから",
+    "meaning": "it is exactly because",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ことなく",
+    "meaning": "without doing something even once",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ごとに",
+    "meaning": "each; every; at intervals of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ことになっている",
+    "meaning": "to be expected to; to be scheduled to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ことにはならない",
+    "meaning": "just because… doesn't mean…",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ことは○○が",
+    "meaning": "although; but",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "際に",
+    "meaning": "at the time; in case of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "幸い",
+    "meaning": "luckily; fortunately",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "さらに",
+    "meaning": "furthermore; again; more and more",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ざるを得ない",
+    "meaning": "can't help doing; have no choice but",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "しかも",
+    "meaning": "moreover; furthermore",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "次第",
+    "meaning": "as soon as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "次第だ / 次第で",
+    "meaning": "depending on; so",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "したがって",
+    "meaning": "therefore; accordingly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "上",
+    "meaning": "from the standpoint of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "少しも○○ない",
+    "meaning": "not one bit; not even a little",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "すなわち",
+    "meaning": "in other words",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ずに済む",
+    "meaning": "get by without doing something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "せいぜい",
+    "meaning": "at the most; at best",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "せめて",
+    "meaning": "at least; at most",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "そういえば",
+    "meaning": "come to think of it",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "そうすると",
+    "meaning": "having done that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "そうにない",
+    "meaning": "extremely unlikely to; showing no signs of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "その上",
+    "meaning": "besides; in addition; furthermore",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "それとも",
+    "meaning": "or; or else",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "それなのに",
+    "meaning": "and yet; despite this",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "それなら",
+    "meaning": "then; if that's the case",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "それにしても",
+    "meaning": "nevertheless; even so",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "たあげく",
+    "meaning": "to end up; finally",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "だけあって",
+    "meaning": "…being the case; precisely because",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "だけでなく",
+    "meaning": "not only… but also",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "だけに",
+    "meaning": "…being the case; precisely because",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "だけのことはある",
+    "meaning": "no wonder; it's not surprising that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "だけは",
+    "meaning": "to do all that one can",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "だけましだ",
+    "meaning": "one should feel grateful for",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "た末 / の末",
+    "meaning": "as a conclusion of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "直ちに",
+    "meaning": "at once; immediately",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "だって",
+    "meaning": "because; but",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "たって",
+    "meaning": "even if; even though; no matter how",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "たまえ",
+    "meaning": "(order somebody to do something)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ちっとも○○ない",
+    "meaning": "not at all; not in the least",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "っこない",
+    "meaning": "no chance of; … is definitely not possible",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "つつ",
+    "meaning": "while; although",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "つつある",
+    "meaning": "to be doing",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "つもりで",
+    "meaning": "with the intention of doing",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ていては",
+    "meaning": "if one keeps doing something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "て以来",
+    "meaning": "since",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てからでないと",
+    "meaning": "unless; until",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てこそ",
+    "meaning": "now that; since",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "でしかない",
+    "meaning": "merely; nothing but; no more than",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てしょうがない",
+    "meaning": "very; extremely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てたまらない",
+    "meaning": "very; extremely; can't help but do",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てでも",
+    "meaning": "even if one has to; by all means",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "て当然だ",
+    "meaning": "natural; as a matter of course",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てならない",
+    "meaning": "very; extremely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ては",
+    "meaning": "if; since; one after another",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てはいられない",
+    "meaning": "can't afford to; unable to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てばかりはいられない",
+    "meaning": "can't keep doing something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ではないか",
+    "meaning": "let's do something; why don't we",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "てはならない",
+    "meaning": "must not; cannot; should not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "手前",
+    "meaning": "before; in front of; from one's standpoint",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ということは",
+    "meaning": "that is to say",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "というふうに",
+    "meaning": "in such a way that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "というものだ",
+    "meaning": "something like…; something called…",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "というものでもない",
+    "meaning": "there is no guarantee that…; not necessarily",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "といった",
+    "meaning": "such… as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "どうせ",
+    "meaning": "anyway; anyhow",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "どうやら",
+    "meaning": "it seems like; it appears that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "とか",
+    "meaning": "I heard that…",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "と考えられる",
+    "meaning": "one can think that…",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ところだった",
+    "meaning": "was just about to do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "どころではない",
+    "meaning": "this is not the time for…",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ところに / ところへ",
+    "meaning": "at the time",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ところを見ると",
+    "meaning": "judging from; seeing that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "としては",
+    "meaning": "as for",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "としても",
+    "meaning": "assuming; even if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "とっくに",
+    "meaning": "already; long ago",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "と同時に",
+    "meaning": "at the same time as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "とも",
+    "meaning": "even if; no matter",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ないことには○○ない",
+    "meaning": "unless you do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ないではいられない",
+    "meaning": "can't help but feel; can't help but do",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "なお",
+    "meaning": "furthermore; still; yet (used to add more information to the )",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "中を",
+    "meaning": "in; on",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "なくはない",
+    "meaning": "it's not that…; can; may be",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "なにも○○ない",
+    "meaning": "no need to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にあたり",
+    "meaning": "at the time; on the occasion of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に応じて",
+    "meaning": "depending on; in accordance with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にかかわらず",
+    "meaning": "regardless of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にかかわる",
+    "meaning": "to relate to; to have to do with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に限って",
+    "meaning": "only; particularly when",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に限らず",
+    "meaning": "not just; not only… but also",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に限る",
+    "meaning": "nothing better than; there's nothing like",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に決まっている",
+    "meaning": "I'm sure that…",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に加えて",
+    "meaning": "in addition to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に越したことはない",
+    "meaning": "it's best that; there's nothing better than",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に応えて",
+    "meaning": "in response to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に基づいて",
+    "meaning": "based on",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に際して",
+    "meaning": "on the occasion of; at the time of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に先立ち",
+    "meaning": "before; prior to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に従って",
+    "meaning": "as; therefore",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にしたら",
+    "meaning": "from the point of view of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にしても○○にしても",
+    "meaning": "regardless of whether",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にしろ / にせよ",
+    "meaning": "though; even if; whether… or",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にしろ○○にしろ",
+    "meaning": "whether… or",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に過ぎない",
+    "meaning": "no more than; just; merely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に相違ない",
+    "meaning": "without a doubt; certain; sure",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に沿って",
+    "meaning": "along with; in accordance with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "につき",
+    "meaning": "due to; because; per; each",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "につけ",
+    "meaning": "both… and…; every time something happens",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にて",
+    "meaning": "in; at",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に伴って",
+    "meaning": "as; due to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "には",
+    "meaning": "in order to; for",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に反して",
+    "meaning": "against; contrary to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にほかならない",
+    "meaning": "nothing but; none other than",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "に向かって",
+    "meaning": "towards; to face; to head to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にもかかわらず",
+    "meaning": "despite; in spite of; although",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "にわたって",
+    "meaning": "throughout; over (a period of time)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "抜きで / 抜きにして",
+    "meaning": "leaving out; cutting out",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "抜く",
+    "meaning": "to do something to the end",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ねばならない",
+    "meaning": "have to; must",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "のみならず",
+    "meaning": "not only; besides; as well",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "のも当然だ",
+    "meaning": "it's only natural that; no wonder",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "のもとで",
+    "meaning": "under",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "のももっともだ",
+    "meaning": "no wonder; … is only natural",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ばかり 2",
+    "meaning": "about; approximately",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ばかりだ",
+    "meaning": "continue to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ばかりに",
+    "meaning": "because; on account of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "果たして",
+    "meaning": "sure enough; really",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "はともかく",
+    "meaning": "whether or not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "は別として",
+    "meaning": "aside from",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "はもとより",
+    "meaning": "also; let alone",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "反面",
+    "meaning": "on the other hand",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ふうに",
+    "meaning": "in a way (this way/that way/what way)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ふたたび",
+    "meaning": "again; once more",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ぶりに",
+    "meaning": "for the first time in",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "まい",
+    "meaning": "won't; intend not to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "まったく○○ない",
+    "meaning": "not~at all",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "むしろ",
+    "meaning": "rather; instead",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "も○○ば○○も",
+    "meaning": "…and…",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "もう少しで",
+    "meaning": "almost; nearly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "もかまわず",
+    "meaning": "without worrying about",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "もっとも",
+    "meaning": "but then; although",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ものか",
+    "meaning": "as if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ものがある",
+    "meaning": "(sentence-ending expression of strong judgement)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ものだから",
+    "meaning": "because; the reason is",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ものではない",
+    "meaning": "shouldn't do something; it's impossible to do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ものなら",
+    "meaning": "if one can do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ものの",
+    "meaning": "but; although",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "やがて",
+    "meaning": "soon; before long; eventually",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "やら○○やら",
+    "meaning": "such things as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ようがない / ようもない",
+    "meaning": "there's no way to; it's impossible to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "要するに",
+    "meaning": "the point is",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ようでは",
+    "meaning": "if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "よりほかない",
+    "meaning": "to have no choice but",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "ろくに○○ない",
+    "meaning": "not doing something properly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "わずかに",
+    "meaning": "slightly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "を○○として",
+    "meaning": "as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "をきっかけに",
+    "meaning": "with… as a start; as a result of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "を契機に",
+    "meaning": "as a good opportunity to; as a result of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "をこめて",
+    "meaning": "filled with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "を通じて / を通して",
+    "meaning": "via; through",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "を問わず",
+    "meaning": "regardless of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "を除いて",
+    "meaning": "except; with the exception of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "をめぐって",
+    "meaning": "concerning; in regard to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "をもとに",
+    "meaning": "based on; from",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "んだって",
+    "meaning": "I heard that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 2
+  },
+  {
+    "pattern": "あえて",
+    "meaning": "dare to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "あくまでも",
+    "meaning": "to the end; to the utmost degree",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "案の定",
+    "meaning": "just as one thought",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "あらかじめ",
+    "meaning": "beforehand; in advance",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "あっての",
+    "meaning": "to owe everything to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "場合によっては",
+    "meaning": "depending on the situation",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ばこそ",
+    "meaning": "only because",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ばそれまでだ",
+    "meaning": "if… then it's over",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "べからず",
+    "meaning": "must not; should not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "べく",
+    "meaning": "in order to; should",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "べくもない",
+    "meaning": "can't",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "びる",
+    "meaning": "seeming to be",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ぶり",
+    "meaning": "style; manner",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ぶる",
+    "meaning": "behaving like",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "だに",
+    "meaning": "even",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "だの○○だの",
+    "meaning": "and; and so forth",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "であれ○○であれ",
+    "meaning": "whether A or B",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "であれ / であろうと",
+    "meaning": "whoever / whatever / however",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "でも何でもない",
+    "meaning": "not in the least",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "でなくてなんだろう",
+    "meaning": "must be; is definitely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "(で)すら",
+    "meaning": "even",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ではあるまいか",
+    "meaning": "I wonder if it's not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ではあるまいし",
+    "meaning": "it's not like; it isn't as if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ではすまない",
+    "meaning": "it doesn't end with just",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "どうにも○○ない",
+    "meaning": "not … by any means",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "がてら",
+    "meaning": "on the same occasion",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "が早いか",
+    "meaning": "as soon as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "が最後",
+    "meaning": "once something occurs; something else happens",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ごとき / ごとく",
+    "meaning": "like; as if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ぐるみ",
+    "meaning": "together with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "羽目になる",
+    "meaning": "to end up with (something unpleasant)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ひとつ",
+    "meaning": "to give something a try",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ほどのことはない",
+    "meaning": "not worth; no need to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ほかに○○ない",
+    "meaning": "no other",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ほうがましだ",
+    "meaning": "I would rather",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "いかなる",
+    "meaning": "any kind of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "いかんでは / いかんによっては",
+    "meaning": "depending on",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "いかんによらず",
+    "meaning": "regardless of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "いかに",
+    "meaning": "how",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "いかにも",
+    "meaning": "indeed; really",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "いまだに",
+    "meaning": "still; even now",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "いずれにせよ",
+    "meaning": "at any rate; in any case",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "じみた",
+    "meaning": "to look like",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "限りだ",
+    "meaning": "I feel so",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "かいもなく",
+    "meaning": "even though",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "か否か",
+    "meaning": "whether or not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "可能性がある",
+    "meaning": "there's a possibility",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "からある",
+    "meaning": "as much as; as many as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "かれ○○かれ",
+    "meaning": "or",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "かたがた",
+    "meaning": "while; for the purpose of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "かたわら",
+    "meaning": "while; at the same time",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "かつて",
+    "meaning": "once; before",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "嫌いがある",
+    "meaning": "to have a tendency to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "きっての",
+    "meaning": "the most … of all",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "きりがない",
+    "meaning": "there's no end to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "極まる / 極まりない",
+    "meaning": "extremely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "極めて",
+    "meaning": "extremely; exceedingly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ことだし",
+    "meaning": "because; since",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ことごとく",
+    "meaning": "altogether; entirely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ことなしに",
+    "meaning": "without doing something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ことのないよう",
+    "meaning": "so as not to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "こととて",
+    "meaning": "because; since",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "くらいなら",
+    "meaning": "rather than",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "くらいのものだ",
+    "meaning": "only",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "までだ",
+    "meaning": "only",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "までもない",
+    "meaning": "it's not necessary to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "まじき",
+    "meaning": "should not; must not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ままに",
+    "meaning": "to do as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "まみれ",
+    "meaning": "to be covered in",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "まるっきり",
+    "meaning": "totally; completely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "めく",
+    "meaning": "to show signs of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "もはや",
+    "meaning": "already; no longer",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "も顧みず / を顧みず",
+    "meaning": "regardless of; despite",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "もしないで",
+    "meaning": "without even doing",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "もので",
+    "meaning": "because; for that reason",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ものを",
+    "meaning": "I wish; if only",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ものと思われる",
+    "meaning": "to think; to suppose",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ものとして",
+    "meaning": "to assume; to suppose",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "もさることながら",
+    "meaning": "not only… but also",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "もしくは",
+    "meaning": "or; otherwise",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ながらに / ながらの",
+    "meaning": "while; during",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ないではおかない / ずにはおかない",
+    "meaning": "will definitely; cannot not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ないではすまない / ずにはすまない",
+    "meaning": "must",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ないまでも",
+    "meaning": "even if something isn't done",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ないものか",
+    "meaning": "can't we…?; can't I…?",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ないものでもない",
+    "meaning": "(something) is not entirely impossible",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ないとも限らない",
+    "meaning": "might",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "なくして",
+    "meaning": "without",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "何しろ",
+    "meaning": "in any case; as you know",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "なしに",
+    "meaning": "without",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ならでは",
+    "meaning": "uniquely applying to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ならいざしらず",
+    "meaning": "I don't know about A; but B",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "なり",
+    "meaning": "as soon as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "なり○○なり",
+    "meaning": "or",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "なりに / なりの",
+    "meaning": "in one's own way or style",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "なりとも",
+    "meaning": "even a little; at least",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に値する",
+    "meaning": "to be worth; to deserve",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にあたらない",
+    "meaning": "it's not worth; there's no need to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にあって",
+    "meaning": "at; during; in the condition of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にひきかえ",
+    "meaning": "in contrast to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に至るまで",
+    "meaning": "until; as far as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に至っては",
+    "meaning": "as for; when it comes to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に言わせれば",
+    "meaning": "if you ask; if one may say",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にかかっている",
+    "meaning": "to depend on",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にかたくない",
+    "meaning": "it's not hard to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にまつわる",
+    "meaning": "to be related to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にもほどがある",
+    "meaning": "to have a limit; to go too far",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にもまして",
+    "meaning": "more than; above",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に則って",
+    "meaning": "in accordance with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に先駆けて",
+    "meaning": "to be the first",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にしたって",
+    "meaning": "even; even if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にして",
+    "meaning": "only; in (time span)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に即して",
+    "meaning": "in keeping with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にたえる / にたえない",
+    "meaning": "can/can't do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に足る / に足りる",
+    "meaning": "to be enough; to be worthy of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に足りない",
+    "meaning": "to be not worth",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "に照らして",
+    "meaning": "in comparison with; according to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "にとどまらず",
+    "meaning": "not limited to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "には及ばない",
+    "meaning": "there's no need to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "によらず",
+    "meaning": "regardless of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "んばかりに",
+    "meaning": "as if; as though",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "んがため",
+    "meaning": "in order to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "の至り",
+    "meaning": "utmost",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "の極み",
+    "meaning": "utmost",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "のみか",
+    "meaning": "not only… but also",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "のなんのって",
+    "meaning": "extremely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を踏まえて",
+    "meaning": "based on",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を経て",
+    "meaning": "through; after; via",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "をいいことに",
+    "meaning": "to take advantage of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を限りに",
+    "meaning": "starting from",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を兼ねて",
+    "meaning": "also for the purpose of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を皮切りに",
+    "meaning": "starting with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を機に",
+    "meaning": "as an opportunity to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を禁じえない",
+    "meaning": "can't help but",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "をものともせず",
+    "meaning": "in defiance of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "をもって 1",
+    "meaning": "by means of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "をもって 2",
+    "meaning": "at the time",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "をおいて",
+    "meaning": "other than; without",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "を余儀なくされる",
+    "meaning": "to be forced to do something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "をよそに",
+    "meaning": "despite",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "思いをする",
+    "meaning": "to feel",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "折に",
+    "meaning": "when; on the occasion",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "およそ",
+    "meaning": "totally; (not) at all",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "さもないと",
+    "meaning": "otherwise; else; if not so",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "さぞ",
+    "meaning": "I'm sure; I'm certain",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "始末だ",
+    "meaning": "end up; in the end",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "そばから",
+    "meaning": "as soon as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "さも",
+    "meaning": "truly; really",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "それなりに",
+    "meaning": "as it is; in its own way",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "そうにもない",
+    "meaning": "impossible; unlikely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ただ○○のみだ",
+    "meaning": "can do nothing but",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "た拍子に",
+    "meaning": "the instant",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ためしがない",
+    "meaning": "(something) is never the case",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "たりとも",
+    "meaning": "(not) even; (not) any",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "た瞬間に",
+    "meaning": "the moment",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てっきり",
+    "meaning": "surely; certainly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "たところで",
+    "meaning": "even if one does something",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てからというもの",
+    "meaning": "after; since",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てかなわない",
+    "meaning": "can't stand; unable to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てまで",
+    "meaning": "even",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てみせる",
+    "meaning": "I'll definitely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てもどうにもならない",
+    "meaning": "it's no use",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ても始まらない",
+    "meaning": "it's no use",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ても差し支えない",
+    "meaning": "can; it's okay if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てしかるべきだ",
+    "meaning": "should",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ってば",
+    "meaning": "I said; I told you to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "てやまない",
+    "meaning": "always; never stop",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "と相まって",
+    "meaning": "together with",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とあれば",
+    "meaning": "if; if it's the case that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とあって",
+    "meaning": "because of",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とばかりに",
+    "meaning": "as if; as though",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "といえども",
+    "meaning": "even; even if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "といい○○といい",
+    "meaning": "and; or",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "といったらない",
+    "meaning": "very; extremely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "という",
+    "meaning": "all; every",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "というか",
+    "meaning": "or; or more precisely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "というか○○というか",
+    "meaning": "(I'm not sure if it's) A or B",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "というところだ / といったところだ",
+    "meaning": "approximately; about",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "というもの",
+    "meaning": "during a period of time",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "というわけだ",
+    "meaning": "this means",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "というわけではない",
+    "meaning": "it's not that; it doesn't mean that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "といわず",
+    "meaning": "not just; both",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ときたら",
+    "meaning": "when it comes to; concerning",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ときている",
+    "meaning": "because",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ところがある",
+    "meaning": "there is",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ところから",
+    "meaning": "from the fact that",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とみられる",
+    "meaning": "to be regarded as; to be expected to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とみるや",
+    "meaning": "at the sight of; upon seeing",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ともなく",
+    "meaning": "to do something without thinking about it",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ともなると / ともなれば",
+    "meaning": "when; once (something happens)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ともすれば",
+    "meaning": "apt to; prone to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "と思いきや",
+    "meaning": "I thought",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とりわけ",
+    "meaning": "especially",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とされる",
+    "meaning": "is considered",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とっさに",
+    "meaning": "at once; right away",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "としたって / としたところで",
+    "meaning": "even if",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "として○○ない",
+    "meaning": "not even one",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とて",
+    "meaning": "even if; even though",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とても○○ない",
+    "meaning": "cannot possibly",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とは",
+    "meaning": "(indicates word or phrase being defined)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とはいえ",
+    "meaning": "nonetheless; although",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "とはいうものの",
+    "meaning": "having said that; be that as it may",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "つ○○つ",
+    "meaning": "(indicates two contrasting actions)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "はおろか",
+    "meaning": "let alone; not to mention",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "はさておき",
+    "meaning": "setting aside",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "や否や",
+    "meaning": "the moment that; as soon as",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "やしない",
+    "meaning": "not (emphatic negative)",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "(よ)うが / (よ)うと",
+    "meaning": "no matter how/what",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "(よ)うが○○まいが / (よ)うと○○まいと",
+    "meaning": "whether or not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "(よ)うか○○まいか",
+    "meaning": "whether or not",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "(よ)うものなら",
+    "meaning": "if one chooses to",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "(よ)うにも○○ない",
+    "meaning": "even if one tries to do something; it can't be done",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ようによっては",
+    "meaning": "depending on",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ゆえに",
+    "meaning": "therefore; consequently",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ざる",
+    "meaning": "not; -un",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ずじまい",
+    "meaning": "never",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ずくめ",
+    "meaning": "entirely; completely",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  },
+  {
+    "pattern": "ずとも",
+    "meaning": "even without doing",
+    "example_ja": "",
+    "example_en": "",
+    "jlpt_level": 1
+  }
+]
