@@ -29,6 +29,7 @@ Ayaka seeds a local SQLite database with ~3,000 kanji and ~20,000 vocabulary ent
 | `update_grammar_progress` | Track a new pattern or update status |
 | `get_jlpt_coverage` | Coverage summary for a JLPT level across all categories |
 | `get_due_for_review` | Items not seen in N days, across any/all categories |
+| `get_introduced_between` | Items introduced within a date range, across any/all categories |
 
 ## Setup
 
