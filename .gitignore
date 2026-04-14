@@ -1,2 +1,14 @@
 .claude/
 notes/
+__pycache__/
+*.pyc
+.venv/
+.assets/
+
+# Generated/downloaded data
+mcp/ayaka.db
+mcp/ayaka.db-wal
+mcp/ayaka.db-shm
+mcp/seed/kanji.json
+mcp/seed/jmdict-eng-common.json
+mcp/seed/jlpt_vocab.json

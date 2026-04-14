@@ -1,0 +1,6 @@
+[project]
+name = "ayaka"
+version = "0.1.0"
+description = "MCP server for Japanese language learning with JLPT progress tracking"
+requires-python = ">=3.10"
+dependencies = ["mcp"]
